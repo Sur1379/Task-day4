@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Test8 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Input different numbers");
         System.out.println("Input number 1");
         int input1 = scanner.nextInt();
         System.out.println("Input number 2");
